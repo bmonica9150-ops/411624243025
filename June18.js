@@ -7,7 +7,7 @@ const example1 = ()=>{
 }
 
 console.log("A")
-setTimeout(example, 0)
+setTimeout(example, 0) 
 setTimeout(example1, 2000)
 console.log("C")
 
